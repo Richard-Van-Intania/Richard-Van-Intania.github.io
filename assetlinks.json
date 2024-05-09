@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.example.app_789plates_mobile",
-      "sha256_cert_fingerprints": ["FF:2A:CF:7B:DD:CC:F1:03:3E:E8:B2:27:7C:A2:E3:3C:DE:13:DB:AC:8E:EB:3A:B9:72:A1:0E:26:8A:F5:EC:AF"]
+      "sha256_cert_fingerprints": ["2D:1A:9E:06:6F:EB:FE:52:49:98:EE:54:74:A9:A6:3A:47:51:19:C8:87:35:DA:85:F2:11:05:DE:8C:8D:BA:AF"]
     }
   }
 ]
