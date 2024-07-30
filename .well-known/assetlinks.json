@@ -1,6 +1,6 @@
 [
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": { "namespace": "android_app", "package_name": "com.example.dpt_e_platform", "sha256_cert_fingerprints": ["2D:1A:9E:06:6F:EB:FE:52:49:98:EE:54:74:A9:A6:3A:47:51:19:C8:87:35:DA:85:F2:11:05:DE:8C:8D:BA:AF"] }
+    "target": { "namespace": "android_app", "package_name": "com.example.dpt_e_platform", "sha256_cert_fingerprints": ["B8:AF:85:74:1E:E0:85:12:1C:B8:65:0C:03:DC:8D:C8:C1:B5:03:9E:8E:E5:04:FA:BE:9E:D1:3E:27:1C:40:5F"] }
   }
 ]
