@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "RG2VUUK6T2.com.example.dptEPlatform"
+          "RG2VUUK6T2.co.finema.DPTePlatform"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "RG2VUUK6T2.com.example.dptEPlatform"
+      "RG2VUUK6T2.co.finema.DPTePlatform"
     ]
   }
 }
