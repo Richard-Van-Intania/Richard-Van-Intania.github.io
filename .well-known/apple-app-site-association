@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "RG2VUUK6T2.co.finema.DPTe-Platform"
+          "QQER2X3M23.th.go.dpt.townsquare"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "RG2VUUK6T2.co.finema.DPTe-Platform"
+      "QQER2X3M23.th.go.dpt.townsquare"
     ]
   }
 }

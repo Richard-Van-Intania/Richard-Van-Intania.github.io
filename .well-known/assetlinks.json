@@ -1,6 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": { "namespace": "android_app", "package_name": "co.finema.dpt_e_platform", "sha256_cert_fingerprints": ["15:86:A8:97:58:6F:FD:E6:C6:57:98:6E:9D:83:A0:40:3D:79:58:B7:1B:C8:7F:B6:21:F4:C0:FD:10:5C:74:CD"] }
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "th.go.dpt_town_square",
+      "sha256_cert_fingerprints": [
+        "30:AA:47:DB:05:F1:99:31:49:31:A8:1B:38:6C:0E:F0:64:16:AE:C8:EC:46:30:8E:00:89:7B:BF:3E:B8:C6:DA"
+      ]
+    }
   }
 ]
